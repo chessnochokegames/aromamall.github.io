@@ -40,6 +40,7 @@ body {
   font-size: 1em;
   color: #595959;
   background-color: #A2DDB6;
+  background-image: url("https://i.imgur.com/LEBKBAm.jpg");
   overflow-x: hidden;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -94,12 +95,12 @@ h6 {
   margin-bottom: 1em;
   line-height: 1.4;
   font-weight: 300;
-  color: #444;
+  color: #fff;
 }
 table,
 p {
   font-size: 14px;
-  color: #444;
+  color: #fff;
   line-height: 1.7;
   font-weight: 400;
 }
@@ -140,7 +141,7 @@ blockquote p {
   border: none;
   background: none;
   font-style: normal;
-  color: #777;
+  color: #fff;
   font-weight: 400;
   font-size: 18px;
   line-height: 38px;
@@ -922,7 +923,7 @@ div[data-overlay] ul {
   color: #d1d1d1;
 }
 .bg-light {
-  background: #A2DDB6;
+  
 }
 .bg-colored {
   background: #5b90b7;
@@ -2366,7 +2367,7 @@ video {
 }
 .text-tabs .tabs {
   padding-bottom: 16px;
-  border-bottom: 1px solid #c1c1c1;
+  border-bottom: 1px solid #000;
   overflow: visible;
 }
 .text-tabs.no-border .tabs {
@@ -3637,7 +3638,7 @@ img + .boxed {
   margin: 0;
 }
 .wide-grid .masonry-container {
-  background: #A2DDB6;
+  
 }
 .wide-grid .masonry-container .masonry-item {
   padding: 0;
